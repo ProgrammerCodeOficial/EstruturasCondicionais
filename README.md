@@ -13,26 +13,18 @@ como os valores de variáveis</p></br>
   - switch case
 </p></br>
 
-<h2> 🟠 Estruturas de repetição </h2>
+> <h3> ◽ Estrutura condicional Simples </h3>
 
-<p>
-  
-  - for
-  
-  - while
-  
-  - do while
-</p></br>
+> <h3> ◽ Estrutura condicional Composta  </h3>
 
+> <h3> ◽ Estrutura condicional Encadeada </h3>
 
-<h2> 🔵 Estruturas de exceção</h2>
-<p>
-  
-  - try / catch / throw
-  finally
-  
-  - throw
-</p></br>
+> <h3> ◽ Estrutura condicional Ternária </h3>
+
+> <h3> ◽ Switch Case </h3>
+
+</br>
+
 
 <h2> 🤝 Contribuindo </h2>
 
